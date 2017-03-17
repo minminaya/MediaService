@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private static final String TAG = "MainActivity";
     private MediaService.MyBinder mMyBinder;
 //    private MediaService mMediaService;
-
+//
     private Button playButton;
     private Button pauseButton;
     private Button nextButton;
